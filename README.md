@@ -1,6 +1,6 @@
 Welcome!
 
-my name is Mohannad jebril and i am happy that you have visit my ePortfolio Here i will take you to ajournay to see what i have done in Technology and Information System (SECP1513) subject
+my name is Mohannad jebril and i am happy that you have visit my ePortfolio Here i will take you to journey to see what i have done in Technology and Information System (SECP1513) subject
 
 HAVE FUN!!!!
 
