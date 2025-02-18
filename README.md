@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/8984bfde-e4cd-4793-97bb-2e4c467fc710)# 🎉 Welcome to My ePortfolio!  
+# 🎉 Welcome to My ePortfolio!  
 
 Hi, my name is **Mohannad Jebril**, and I’m excited to have you here! 🚀  
 This ePortfolio showcases my journey in **Technology and Information Systems (SECP1513)**.  
