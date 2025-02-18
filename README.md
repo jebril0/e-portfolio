@@ -55,5 +55,9 @@ Explore my projects, experiences, and insights as I navigate the world of tech.
 ![17](https://github.com/user-attachments/assets/a378cc1f-e9b0-4fcc-a186-87d0405bc243)
 
 ---
-
 ### 🚀 **Thank you for visiting! Hope you enjoy exploring my journey!**  
+---
+# 🎓 **A BIG THANK YOU to Dr. Suri Ati!**  
+I sincerely appreciate your guidance, support, and dedication throughout this course. Your teaching has truly inspired me and helped shape my understanding of **Technology and Information Systems**. 🙏✨  
+
+
