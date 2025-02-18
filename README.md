@@ -1,8 +1,11 @@
-Welcome!
+Welcome to My ePortfolio! 🎉
+Hi, I'm Mohannad Jebril, and I'm excited to have you here! 🚀
 
-my name is Mohannad jebril and i am happy that you have visit my ePortfolio Here i will take you to journey to see what i have done in Technology and Information System (SECP1513) subject
+This ePortfolio showcases my journey in Technology and Information Systems (SECP1513)—from assignments to hands-on experiences. Get ready to explore my work, insights, and projects.
 
-HAVE FUN!!!!
+Enjoy the journey! 😊
+
+
 
 
 
@@ -27,10 +30,10 @@ Assignment 3 - Skills in University and Industry
 
 
 
-Assignment 4 - MaGICX V
+Assignment 4 - MaGICX Visit
 ![Industrial Visit Magicx (1)_page-0002](https://github.com/user-attachments/assets/1def80da-3e87-4176-8b81-81fab05ee40d)
 ![Industrial Visit Magicx (1)_page-0001](https://github.com/user-attachments/assets/30c85635-57f7-4ced-b52c-6d64394e9715)
-isit
+
 
 
 
