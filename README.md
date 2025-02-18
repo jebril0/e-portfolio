@@ -6,6 +6,11 @@ Explore my projects, experiences, and insights as I navigate the world of tech.
 
 ---
 
+## 🎓 **Acknowledgment**  
+I would like to express my sincere gratitude to **Dr. Suri Ati** for her invaluable guidance, support, and dedication throughout this course. Her expertise and passion for teaching **Technology and Information Systems** have greatly enriched my learning experience. I deeply appreciate the knowledge and insights she has shared, which have played a significant role in my academic and professional development.  
+
+---
+
 ## 📌 Assignment 1 - Petronas Digital YGP  
 ![Petronas Digital YGP](https://github.com/user-attachments/assets/7513e143-c3df-4d62-9e1c-a2ee22bfa1d0)  
 
@@ -56,8 +61,5 @@ Explore my projects, experiences, and insights as I navigate the world of tech.
 
 ---
 ### 🚀 **Thank you for visiting! Hope you enjoy exploring my journey!**  
----
-# 🎓 **A BIG THANK YOU to Dr. Suri Ati!**  
-I sincerely appreciate your guidance, support, and dedication throughout this course. Your teaching has truly inspired me and helped shape my understanding of **Technology and Information Systems**. 🙏✨  
 
 
