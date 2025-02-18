@@ -4,8 +4,14 @@ my name is Mohannad jebril and i am happy that you have visit my ePortfolio Here
 
 HAVE FUN!!!!
 
+
+
+
 Assignment 1 - Petronas Digital YGP
 ![Brown Modern Digital Marketing Agency Poster (1)](https://github.com/user-attachments/assets/7513e143-c3df-4d62-9e1c-a2ee22bfa1d0)
+
+
+
 
 Assignment 2 - UTMDigital Visit
 link : https://drive.google.com/file/d/1__Ach_EyNDbebcNTNWQXsCWFEUiKHKgH/view?usp=sharing
@@ -21,6 +27,19 @@ Assignment 3 - Skills in University and Industry
 
 
 
-ASSIGNMENT 4 
+Assignment 4 - MaGICX V
+![Industrial Visit Magicx (1)_page-0002](https://github.com/user-attachments/assets/1def80da-3e87-4176-8b81-81fab05ee40d)
+![Industrial Visit Magicx (1)_page-0001](https://github.com/user-attachments/assets/30c85635-57f7-4ced-b52c-6d64394e9715)
+isit
 
-[Industrial Visit Magicx (1).pdf](https://github.com/user-attachments/files/18845414/Industrial.Visit.Magicx.1.pdf)
+
+
+
+
+Design Thinking Project - AI Mental Health Support System
+
+link : https://drive.google.com/file/d/1Pyw7eUrOICeiLqTzWpSzCUGJFWAb5ISx/view?usp=sharing
+
+
+
+
