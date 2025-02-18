@@ -1,4 +1,4 @@
-# 🎉 Welcome to My ePortfolio!  
+![2](https://github.com/user-attachments/assets/8984bfde-e4cd-4793-97bb-2e4c467fc710)# 🎉 Welcome to My ePortfolio!  
 
 Hi, my name is **Mohannad Jebril**, and I’m excited to have you here! 🚀  
 This ePortfolio showcases my journey in **Technology and Information Systems (SECP1513)**.  
@@ -34,25 +34,25 @@ Explore my projects, experiences, and insights as I navigate the world of tech.
 
 ## 💡 Design Thinking Project - AI Mental Health Support System  
 🔗 **[Check it out](https://drive.google.com/file/d/1Pyw7eUrOICeiLqTzWpSzCUGJFWAb5ISx/view?usp=sharing)**  
-![12](https://github.com/user-attachments/assets/946382f2-35f1-48eb-860f-68c3d2f29226)
-![11](https://github.com/user-attachments/assets/071d3595-ccc4-4e52-9068-92b709764c1c)
-![10](https://github.com/user-attachments/assets/2cf65afd-46bc-4cf7-bc53-50b46a1542e9)
-![9](https://github.com/user-attachments/assets/6fbf8c0e-d9e5-4af8-9443-556a390cdf36)
-![8](https://github.com/user-attachments/assets/adf61d5f-f18c-4aa7-81ab-8f0de5995c51)
-![7](https://github.com/user-attachments/assets/3f903807-baf1-4e7e-a4ce-24610bbf6d42)
-![6](https://github.com/user-attachments/assets/45c93489-8d66-40db-86a8-68e42a6b51d6)
-![5](https://github.com/user-attachments/assets/013a07b8-3a9d-4522-9d17-4cc0ad19c2ad)
-![4](https://github.com/user-attachments/assets/2d38b5c6-567d-4de1-8754-a18e87bc3955)
-![3](https://github.com/user-attachments/assets/ab519a6c-538a-4e38-8a31-97db812ea6cd)
-![2](https://github.com/user-attachments/assets/afbb12f0-da87-48aa-b059-ec73c4c1016a)
-![1](https://github.com/user-attachments/assets/d1c6d35b-bf9c-41ef-84ac-6a5a7bb72093)
-![17](https://github.com/user-attachments/assets/82fb173b-8c13-45f3-9ee0-5019b8867529)
-![16](https://github.com/user-attachments/assets/f9ea2693-7cc5-4002-953b-b48b5eb6e76e)
-![15](https://github.com/user-attachments/assets/c2dafbd8-0a9d-436c-bf13-d43b873cdd23)
-![14](https://github.com/user-attachments/assets/fada9958-a7f9-4415-af64-8eab4b845020)
-![13](https://github.com/user-attachments/assets/7607b2db-eeef-41cd-a032-59628efe5c85)
 
 
+![1](https://github.com/user-attachments/assets/6271f4ed-63e4-4787-897c-a3b11bae6370)
+![2](https://github.com/user-attachments/assets/30b6d307-db83-4340-9851-6e994a32c14b)
+![3](https://github.com/user-attachments/assets/265b690c-73df-4796-8163-a8b10065f8ff)
+![4](https://github.com/user-attachments/assets/c39db551-f9f2-4c78-8c92-520860c99749)
+![5](https://github.com/user-attachments/assets/7a664adc-3f20-48f1-918d-3b83b573be33)
+![6](https://github.com/user-attachments/assets/356e800b-d7d7-4ded-a0e4-9033b6466408)
+![7](https://github.com/user-attachments/assets/6d92b702-380c-4bde-a6d6-433704e96c88)
+![8](https://github.com/user-attachments/assets/e0c48be5-496a-43af-a5b1-7d45584e80b7)
+![9](https://github.com/user-attachments/assets/c0f70243-ac9a-4ffc-b5a9-4575adbf63ae)
+![10](https://github.com/user-attachments/assets/034b162d-cc01-4ffa-8eea-83af193317b8)
+![11](https://github.com/user-attachments/assets/51776042-9184-4b9d-ae4e-b1feac84563d)
+![12](https://github.com/user-attachments/assets/adcce52e-9d36-438c-a035-e7497def84d4)
+![13](https://github.com/user-attachments/assets/668563bf-9f42-4948-87fa-039f224ad97d)
+![14](https://github.com/user-attachments/assets/4108ff17-759c-478e-9147-f88563f1c985)
+![15](https://github.com/user-attachments/assets/baa6b2a5-f7f8-4bf7-8287-76bd96fd3b10)
+![16](https://github.com/user-attachments/assets/96dbd374-2d3c-478d-85e0-de43f9fcecce)
+![17](https://github.com/user-attachments/assets/a378cc1f-e9b0-4fcc-a186-87d0405bc243)
 
 ---
 
