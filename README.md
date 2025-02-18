@@ -1,26 +1,25 @@
-Welcome to My ePortfolio! 🎉
-Hi, I'm Mohannad Jebril, and I'm excited to have you here! 🚀
+# 🎉 Welcome to My ePortfolio!  
 
-This ePortfolio showcases my journey in Technology and Information Systems (SECP1513)—from assignments to hands-on experiences. Get ready to explore my work, insights, and projects.
+Hi, my name is **Mohannad Jebril**, and I’m excited to have you here! 🚀  
+This ePortfolio showcases my journey in **Technology and Information Systems (SECP1513)**.  
+Explore my projects, experiences, and insights as I navigate the world of tech.  
 
-Enjoy the journey! 😊
-
-
-
+---
 
 
 
-Assignment 1 - Petronas Digital YGP
+## 📌 Assignment 1 - Petronas Digital YGP  
 ![Brown Modern Digital Marketing Agency Poster (1)](https://github.com/user-attachments/assets/7513e143-c3df-4d62-9e1c-a2ee22bfa1d0)
 
 
+---
 
-
-Assignment 2 - UTMDigital Visit
+## 📌 Assignment 2 - UTMDigital Visit  
 link : https://drive.google.com/file/d/1__Ach_EyNDbebcNTNWQXsCWFEUiKHKgH/view?usp=sharing
 
+---
 
-Assignment 3 - Skills in University and Industry
+## 📌 Assignment 3 - Skills in University and Industry  
 ![SKILLS IN UNIVERSITY AND INDUSTRY - Assignment 3 (1)_page-0001](https://github.com/user-attachments/assets/17c8b7b9-d594-4efd-895c-8c3851a4652c)
 ![SKILLS IN UNIVERSITY AND INDUSTRY - Assignment 3 (1)_page-0006](https://github.com/user-attachments/assets/8da66dd1-3be4-4892-b2a4-3cde41ddb387)
 ![SKILLS IN UNIVERSITY AND INDUSTRY - Assignment 3 (1)_page-0005](https://github.com/user-attachments/assets/b8f72504-0f63-44c2-90db-2731612a9444)
@@ -29,8 +28,8 @@ Assignment 3 - Skills in University and Industry
 ![SKILLS IN UNIVERSITY AND INDUSTRY - Assignment 3 (1)_page-0002](https://github.com/user-attachments/assets/2d3c4adb-0e81-44e6-88d8-83e23a63d5f2)
 
 
-
-Assignment 4 - MaGICX Visit
+---
+## 📌 Assignment 4 - MaGICX Visit  
 ![Industrial Visit Magicx (1)_page-0002](https://github.com/user-attachments/assets/1def80da-3e87-4176-8b81-81fab05ee40d)
 ![Industrial Visit Magicx (1)_page-0001](https://github.com/user-attachments/assets/30c85635-57f7-4ced-b52c-6d64394e9715)
 
@@ -39,10 +38,11 @@ Assignment 4 - MaGICX Visit
 
 
 
-Design Thinking Project - AI Mental Health Support System
+## 💡 Design Thinking Project - AI Mental Health Support System  
+🔗 **[Check it out](https://drive.google.com/file/d/1Pyw7eUrOICeiLqTzWpSzCUGJFWAb5ISx/view?usp=sharing)**  
 
-link : https://drive.google.com/file/d/1Pyw7eUrOICeiLqTzWpSzCUGJFWAb5ISx/view?usp=sharing
+---
 
-
+### 🚀 **Thank you for visiting! Hope you enjoy exploring my journey!**  
 
 
